@@ -1,4 +1,4 @@
-```markdown
+
 # Veterinary Clinic Management System
 
 Este repositório contém o projeto **Veterinary Clinic Management System**, que implementa um sistema para gerenciamento de clínicas veterinárias. O sistema permite o registro de pacientes (animais), agendamento de consultas, cadastro de proprietários e controle das atividades da clínica.
